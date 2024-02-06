@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 As a graduate of physics (geophysics) at Andalas University and a graphic designer with approximately 5 years of experience. I have an interest and also the ability to master Data Science, Data Analysis (Excel, MySQL, Microsoft SQL Server), Geophysics, Python Programming, Adobe Creative Suite Software tools (Photoshop, Illustrator, XD), Corel Draw, Fiqma, and Microsoft Office. I understand the importance of attention to detail and accuracy in my work and efficiently meeting tight deadlines. I have strong skills in ensuring data and design professionally, and am dedicated to delivering satisfactory end results that meet client needs. As an individual, I still want to develop and add insight according to the study of science and the field I master.
 
-<br/>
-
 ## 🔧 Technologies & Tools
 
 <!-- badges built from https://shields.io/ -->
@@ -57,8 +55,6 @@ No activity tracked
 - [Instagram](https://www.instagram.com/ahmadfurqan7/) 😏
 - [Email](mailto:ahmadfurqan536@gmail.com) ✉
 - [Resume](https://drive.google.com/file/d/1piPe0oC2WwI6AiXrrqNw6oGKB15XCWkg/view?usp=sharing) 📃
-
-<br/>
 
 ### 💼 Where i am currently working at/as
 
