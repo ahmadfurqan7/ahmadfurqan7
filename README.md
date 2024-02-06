@@ -1,5 +1,3 @@
-### Hello 👋
-
 <!--[Header](https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/ProfileHeader.png)-->
 
 <!--
