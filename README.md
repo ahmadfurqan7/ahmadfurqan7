@@ -38,7 +38,6 @@ As a graduate of physics (geophysics) at Andalas University and a graphic design
 ![Database](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![Database](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 ![Tools](https://img.shields.io/badge/Tools-Microsoft%20Office-informational?style=flat&logo=Microsoft%20Office&logoColor=white&color=2bbc8a)
-![Tools](https://img.shields.io/badge/Tools-Apache%20OpenOffice-informational?style=flat&logo=Apache%20OpenOffice&logoColor=white&color=2bbc8a)
 ![Tools](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 <br/>
 
