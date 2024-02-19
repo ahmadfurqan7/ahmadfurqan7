@@ -51,10 +51,10 @@ No activity tracked
 
 ### 📫 Where to find me
 
-- [LinkedIn](https://www.linkedin.com/in/ahmad-furqan-836468197/) 👨💼
-- [Instagram](https://www.instagram.com/ahmadfurqan7/) 😏
-- [Email](mailto:ahmadfurqan536@gmail.com) ✉
-- [Resume](https://drive.google.com/file/d/1piPe0oC2WwI6AiXrrqNw6oGKB15XCWkg/view?usp=sharing) 📃
+- [LinkedIn - Ahmad Furqan](https://www.linkedin.com/in/ahmad-furqan-836468197/) 👨💼
+- [Instagram - ahmadfurqan7](https://www.instagram.com/ahmadfurqan7/) 😏
+- [Email - ahmadfurqan536@gmail.com](mailto:ahmadfurqan536@gmail.com) ✉
+- [Resume - Ahmad Furqan](https://drive.google.com/file/d/1piPe0oC2WwI6AiXrrqNw6oGKB15XCWkg/view?usp=sharing) 📃
 
 ### 💼 Where i am currently working at/as
 
