@@ -39,7 +39,7 @@ As a graduate of physics (geophysics) at Andalas University and a graphic design
 ![Tools](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 <br/>
 
-## 🔧Languange and Software
+## 🔧Languange & Software
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
