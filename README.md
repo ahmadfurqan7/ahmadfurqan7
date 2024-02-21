@@ -66,9 +66,8 @@ No activity tracked
 Andalas University, Padang
 <br/>
 <p align="center">
-	<a href="https://github.com/thevkrant"><img src="https://img.shields.io/github/last-commit/thevkrant/thevkrant?label=Profile%20Updated&amp;style=flat" alt="GitHub hits"></a>
+	<a href="https://github.com/ahmadfurqan7"><img src="https://img.shields.io/github/last-commit/thevkrant/thevkrant?label=Profile%20Updated&amp;style=flat" alt="GitHub hits"></a>
 	<img src="https://img.shields.io/badge/dynamic/json?logo=github&amp;label=GitHub+Followers&amp;labelColor=282c34&amp;color=181717&amp;style=flat&amp;query=%24.data.totalSubs&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dthevkrant&amp;longCache=true" alt="GitHub">
-	<a href="https://twitter.com/iamvikrant28"><img src="https://img.shields.io/twitter/follow/iamvikrant28?label=Follow&amp;style=flat&logo=rss" alt="Twitter Follow"></a>
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=thevkrant.thevkrant&amp;style=flat" alt="visitors">
 	 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome GitHub Profile README"></a>
         <p align="right"><img src="https://custom-icon-badges.herokuapp.com/badge/Thank-you-pink.svg?logo=heart-fill&logoColor=pink"></p>
