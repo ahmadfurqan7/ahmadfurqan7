@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br/>
 A little more about me :)
 <br/>
-As a graduate of physics (geophysics) at Andalas University and a graphic designer with approximately 5 years of experience. I have an interest and also the ability to master Data Science, Data Analysis, Database (Excel, MySQL, Microsoft SQL Server), Geophysics, Pascal, Python Programming, Adobe Creative Suite Software tools (Photoshop, Illustrator, XD), Corel Draw, Fiqma, and Microsoft Office. I understand the importance of attention to detail and accuracy in my work and efficiently meeting tight deadlines. I have strong skills in ensuring data and design professionally, and am dedicated to delivering satisfactory end results that meet client needs. As an individual, I still want to develop and add insight according to the study of science and the field I master.
+As a graduate of physics (geophysics) at Andalas University and a graphic designer with approximately 5 years of experience. I have analytical and problem-solving skills and mastered data analysis, data science, data geophysics, programming, and databases. I understand the importance of attention to detail and accuracy in my work and efficiently meeting tight deadlines. I have strong skills in ensuring data and design professionally, and am dedicated to delivering satisfactory end results that meet client needs. As an individual, I still want to develop and add insight according to the study of science and the field I master.
 
 ## 🔧 Technologies & Tools
 
