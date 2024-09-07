@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br/>
 A little more about me :)
 <br/>
-As a graduate of physics (geophysics) at Andalas University and a graphic designer with approximately 5 years of experience. I have analytical and problem-solving skills and mastered data analysis, data science, data visualization, data geophysics, programming, and databases. I understand the importance of attention to detail and accuracy in my work and efficiently meeting tight deadlines. I have strong skills in ensuring data and design professionally, and am dedicated to delivering satisfactory end results that meet client needs. As an individual, I still want to develop and add insight according to the study of science and the field I master.
+As a graduate of physics (geophysics) at Andalas University, I have analytical and problem-solving skills and mastered data analysis, data science, geophysics data, programming, database, and graphic design. I understand the importance of attention to detail and accuracy in my work and efficiently meeting tight deadlines. I have strong skills in ensuring data and design professionally, and am dedicated to delivering satisfactory end results that meet client needs. As an individual, I still want to develop and add insight according to the study of science and the field I master.
 
 ## 🔧 Technologies & Tools
 
@@ -74,7 +74,7 @@ No activity tracked
 - [LinkedIn - Ahmad Furqan](https://www.linkedin.com/in/ahmad-furqan-836468197/) 👨💼
 - [Instagram - ahmadfurqan7](https://www.instagram.com/ahmadfurqan7/) 😏
 - [Email - ahmadfurqan536@gmail.com](mailto:ahmadfurqan536@gmail.com) ✉
-- [Resume - Ahmad Furqan](https://drive.google.com/file/d/1HyaTm_-_9lcCte3sYetDOxqnTBKxfnip/view?usp=sharing) 📃
+- [Resume - Ahmad Furqan](https://drive.google.com/file/d/1z14EOePXcRZqUCKGuqif2fr2vGg3ORFb/view?usp=sharing) 📃
 
 ### 💼 Where i am currently working at/as
 
