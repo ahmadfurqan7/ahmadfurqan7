@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br/>
 A little more about me :)
 <br/>
-As a graduate of physics (geophysics) at Andalas University, I have analytical and problem-solving skills and mastered data analysis, data science, geophysics data, programming, database, and graphic design. I understand the importance of attention to detail and accuracy in my work and efficiently meeting tight deadlines. I have strong skills in ensuring data and design professionally, and am dedicated to delivering satisfactory end results that meet client needs. As an individual, I still want to develop and add insight according to the study of science and the field I master.
+As a physics (geophysics) graduate at Andalas University, I have analytical and problem-solving skills and am well versed in data analysis, data science, geophysical data, programming, databases, and graphic design. I understand the importance of attention to detail and accuracy in my work and efficiently meet tight deadlines. I have strong skills in analyzing data and design in a professional manner, and am dedicated to delivering satisfactory end results that meet client needs. As an individual, I still want to grow and broaden my horizons according to my studies and fields of expertise.
 
 ## 🔧 Technologies & Tools
 
