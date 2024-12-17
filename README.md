@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 As a physics (geophysics) graduate at Andalas University, I have analytical and problem-solving skills and am well versed in data analysis, data science, geophysical data, programming, databases, and graphic design. I understand the importance of attention to detail and accuracy in my work and efficiently meet tight deadlines. I have strong skills in analyzing data and design in a professional manner, and am dedicated to delivering satisfactory end results that meet client needs. As an individual, I still want to grow and broaden my horizons according to my studies and fields of expertise.
 
 ## 🔧 Projects
-Link Project >> [Portfolio Project](https://github.com/ahmadfurqan7?tab=repositories)
+[Data Analyst Project](https://github.com/ahmadfurqan7?tab=repositories)
 
 ## 🔧 Technologies & Tools
 
