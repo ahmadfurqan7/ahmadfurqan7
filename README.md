@@ -21,6 +21,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=blue&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Ahmad+Furqan!" />
     </a>
 </h1> <br/><img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br/>
 As a physics (geophysics) graduate at Andalas University, I have analytical and problem-solving skills and am well versed in data analysis, data science, geophysical data, programming, databases, and graphic design. I understand the importance of attention to detail and accuracy in my work and efficiently meet tight deadlines. I have strong skills in analyzing data and design in a professional manner, and am dedicated to delivering satisfactory end results that meet client needs. As an individual, I still want to grow and broaden my horizons according to my studies and fields of expertise.
