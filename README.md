@@ -20,6 +20,8 @@ Here are some ideas to get you started:
     <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=blue&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Ahmad+Furqan!" />
     </a>
+</h1> <br/><img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 
 ---
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
