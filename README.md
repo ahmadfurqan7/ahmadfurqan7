@@ -15,7 +15,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</a>
+<h1 align="center">
+    <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=blue&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Ahmad+Furqan!" />
+    </a>
+</h1> <br/><img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
+
+
+
+<tr><td><a href="https://github.com/ahmadfurqan7"><img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahmadfurqan7&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3" /></a></td>
+<td><a href="https://github.com/virajbhutada"> <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&theme=radical" /></a></td></tr>
+     <a href="https://github.com/virajbhutada">
+    <img alt="Top Languages by Commit Chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfurqan7&langs_count=8&layout=compact&theme=radical" />
+  </a>
+
+
+
+---
 # Hello! 👋
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br/>
