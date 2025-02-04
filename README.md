@@ -28,6 +28,7 @@ As a physics (geophysics) graduate at Andalas University, I have analytical and 
 
 ## 🔧 Projects
 - [Data Analyst Project](https://github.com/ahmadfurqan7/Data-Analyst)
+- [Power BI Project](https://github.com/ahmadfurqan7/PowerBI-Project)
 - [SQL Data Project](https://github.com/ahmadfurqan7/SQL-Project)
 - [Machine Learning Project](https://github.com/ahmadfurqan7/Machine-Learning)
 - [Python Project](https://github.com/ahmadfurqan7/Python-project)
