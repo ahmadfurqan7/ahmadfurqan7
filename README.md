@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=blue&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Ahmad+Furqan!" />
     </a>
-</h1> <br/><img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+</h1> 
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br/>
@@ -89,7 +89,7 @@ No activity tracked
 - [LinkedIn - Ahmad Furqan](https://www.linkedin.com/in/ahmad-furqan-836468197/) 👨💼
 - [Instagram - ahmadfurqan7](https://www.instagram.com/ahmadfurqan7/) 😏
 - [Email - ahmadfurqan536@gmail.com](mailto:ahmadfurqan536@gmail.com) ✉
-- [CV - Ahmad Furqan](https://drive.google.com/file/d/16o4iGc-u37l8iRi3QuwtW_sF8qHKs5vn/view?usp=sharing) 📃
+- [CV - Ahmad Furqan](https://drive.google.com/file/d/1pdsJWdnBydKlqcSGhRWr3yvlknpcrBM-/view?usp=sharing) 📃
 
 ### 💼 Where i am currently working at/as
 
