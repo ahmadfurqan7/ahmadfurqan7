@@ -89,11 +89,11 @@ No activity tracked
 - [LinkedIn - Ahmad Furqan](https://www.linkedin.com/in/ahmad-furqan-836468197/) 👨💼
 - [Instagram - ahmadfurqan7](https://www.instagram.com/ahmadfurqan7/) 😏
 - [Email - ahmadfurqan536@gmail.com](mailto:ahmadfurqan536@gmail.com) ✉
-- [CV - Ahmad Furqan](https://drive.google.com/file/d/1pdsJWdnBydKlqcSGhRWr3yvlknpcrBM-/view?usp=sharing) 📃
+- [CV - Ahmad Furqan](https://drive.google.com/file/d/1lpU4eftLM5pp-OF9o4Ew4AiCH5zJ7n5E/view?usp=sharing) 📃
 
 ### 💼 Where i am currently working at/as
 
-- Currently working on design projects as a freelance.
+- Currently working on fast goods company as operator logistics.
 
 ### 🎓 Education
 
