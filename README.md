@@ -24,10 +24,11 @@ Here are some ideas to get you started:
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br/>
-As a physics (geophysics) graduate at Andalas University, I have analytical and problem-solving skills and am well versed in data analysis, data science, geophysical data, programming, databases, and graphic design. I understand the importance of attention to detail and accuracy in my work and efficiently meet tight deadlines. I have strong skills in analyzing data and design in a professional manner, and am dedicated to delivering satisfactory end results that meet client needs. As an individual, I still want to grow and broaden my horizons according to my studies and fields of expertise.
+Physics graduate from Andalas University (Earth & Atmospheric Physics) who has a combination of analytical data expertise, administrative rigor, and visual creativity. Extensive experience in managing operational and logistics data, including purchase order administration, stock picking, and inventory/stock accuracy. Have technical proficiency in SQL, Python, and data visualization using Power BI and Tableau, backed by various certifications from global platforms such as HackerRank and Dicoding. Proven to be able to adapt in various industries, from the banking sector as a Financial Advisor to the creative industry as a Graphic Designer, with a high dedication to accuracy and the achievement of company targets.
 
 ## 🔧 Projects
 - [Data Analyst Project](https://github.com/ahmadfurqan7/Data-Analyst)
+- [Data Science Project]()
 - [Power BI Project](https://github.com/ahmadfurqan7/PowerBI-Project)
 - [SQL Data Project](https://github.com/ahmadfurqan7/SQL-Project)
 - [Machine Learning Project](https://github.com/ahmadfurqan7/Machine-Learning)
