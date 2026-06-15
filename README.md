@@ -110,7 +110,7 @@ Andalas University, Padang
 
 <br/>
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ahmadfurqan7&style=flat-square&color=brightgreen" alt="viewers count" style="height: 40px;"/>
+  <img src="https://komarev.com/ghpvc/?username=ahmadfurqan7&style=flat-square&color=brightgreen" alt="viewers count" style="height: 20px;"/>
 </p>
 <!--
 <br/>
