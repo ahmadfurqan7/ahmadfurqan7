@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br/>
+## 🔧 About Me
 Physics graduate from Andalas University (Earth & Atmospheric Physics) who has a combination of analytical data expertise, administrative rigor, and visual creativity. Extensive experience in managing operational and logistics data, including purchase order administration, stock picking, and inventory/stock accuracy. Have technical proficiency in SQL, Python, and data visualization using Power BI and Tableau, backed by various certifications from global platforms such as HackerRank and Dicoding. Proven to be able to adapt in various industries, from the banking sector as a Financial Advisor to the creative industry as a Graphic Designer, with a high dedication to accuracy and the achievement of company targets.
 
 ## 🔧 Projects
@@ -70,10 +71,11 @@ Physics graduate from Andalas University (Earth & Atmospheric Physics) who has a
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Power BI](https://camo.githubusercontent.com/917168979884ed8edc108608916efea5ae07f77076d615e54d74c2d0e6166e3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b)
-![Pandas](https://camo.githubusercontent.com/30d151000d62851ada6e84dc45f81724992b69f4833284d4b6dc3cf07e91728e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)
-![Numpy](https://camo.githubusercontent.com/dfba2a5ec89e3df8642ef5cccbf01ea8f597476812f0823be491b11c34e1c990/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
-![Colab](https://camo.githubusercontent.com/eb4e984a24e09f69a60907bdc1c83468b3c484f1623e59ecfba536034443d62a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6c61622d4639414230303f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65636f6c616226636f6c6f723d353235323532)
+![Power BI](https://camo.githubusercontent.com/b1586e306af6c7b327cbec5cf88f8093bef26ea820078574b4f78c53a968c6e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b)
+![Pandas](https://camo.githubusercontent.com/542a0340419f8d1b34065c2e3276f94519dab2eea45723dadb8bd98275b4274b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)
+![Numpy](https://camo.githubusercontent.com/219039d4447950f272d252326184951ed2c77db83af5d9bf19c2ccefe6432c7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
+![Scikit-Learn](https://camo.githubusercontent.com/19110abd80dacd3a2b1983b13a8dd35354b1510aa8fff7b292ed3b7f51e196bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)
+![TensorFlow](https://camo.githubusercontent.com/459c5ff3d6298a4485b583d61a3a694851d73b2bcc5ef7c407f1e2c3569063a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d2532334646364630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465)
 
 <!--## This week I spent my time on:
 
