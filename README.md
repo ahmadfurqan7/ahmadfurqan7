@@ -22,7 +22,6 @@ Here are some ideas to get you started:
     </a>
 </h1> 
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br/>
 ## 🔧 About Me
 Physics graduate from Andalas University (Earth & Atmospheric Physics) who has a combination of analytical data expertise, administrative rigor, and visual creativity. Extensive experience in managing operational and logistics data, including purchase order administration, stock picking, and inventory/stock accuracy. Have technical proficiency in SQL, Python, and data visualization using Power BI and Tableau, backed by various certifications from global platforms such as HackerRank and Dicoding. Proven to be able to adapt in various industries, from the banking sector as a Financial Advisor to the creative industry as a Graphic Designer, with a high dedication to accuracy and the achievement of company targets.
@@ -76,6 +75,7 @@ Physics graduate from Andalas University (Earth & Atmospheric Physics) who has a
 ![Numpy](https://camo.githubusercontent.com/219039d4447950f272d252326184951ed2c77db83af5d9bf19c2ccefe6432c7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 ![Scikit-Learn](https://camo.githubusercontent.com/19110abd80dacd3a2b1983b13a8dd35354b1510aa8fff7b292ed3b7f51e196bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)
 ![TensorFlow](https://camo.githubusercontent.com/459c5ff3d6298a4485b583d61a3a694851d73b2bcc5ef7c407f1e2c3569063a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d2532334646364630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!--## This week I spent my time on:
 
