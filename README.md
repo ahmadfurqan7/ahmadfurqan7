@@ -28,6 +28,7 @@ Physics graduate from Andalas University (Earth & Atmospheric Physics) who has a
 ## 🔧 Projects
 - [Data Analyst Project](https://github.com/ahmadfurqan7/Data-Analyst)
 - [Data Science Project]()
+- [Tableau Project]()
 - [Power BI Project](https://github.com/ahmadfurqan7/PowerBI-Project)
 - [SQL Data Project](https://github.com/ahmadfurqan7/SQL-Project)
 - [Machine Learning Project](https://github.com/ahmadfurqan7/Machine-Learning)
@@ -91,7 +92,7 @@ No activity tracked
 - [LinkedIn - Ahmad Furqan](https://www.linkedin.com/in/ahmad-furqan-836468197/) 👨💼
 - [Instagram - ahmadfurqan7](https://www.instagram.com/ahmadfurqan7/) 😏
 - [Email - ahmadfurqan536@gmail.com](mailto:ahmadfurqan536@gmail.com) ✉
-- [CV - Ahmad Furqan](https://drive.google.com/file/d/1lpU4eftLM5pp-OF9o4Ew4AiCH5zJ7n5E/view?usp=sharing) 📃
+- [CV Resume - Ahmad Furqan](https://drive.google.com/file/d/1lpU4eftLM5pp-OF9o4Ew4AiCH5zJ7n5E/view?usp=sharing) 📃
 
 ### 💼 Where i am currently working at/as
 
