@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 </h1> 
 
 <br/>
+
 ## 🔧 About Me
 Physics graduate from Andalas University (Earth & Atmospheric Physics) who has a combination of analytical data expertise, administrative rigor, and visual creativity. Extensive experience in managing operational and logistics data, including purchase order administration, stock picking, and inventory/stock accuracy. Have technical proficiency in SQL, Python, and data visualization using Power BI and Tableau, backed by various certifications from global platforms such as HackerRank and Dicoding. Proven to be able to adapt in various industries, from the banking sector as a Financial Advisor to the creative industry as a Graphic Designer, with a high dedication to accuracy and the achievement of company targets.
 
