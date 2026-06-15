@@ -102,6 +102,13 @@ No activity tracked
 
 **Bachelor of Science in Physics**<br/>
 Andalas University, Padang
+
+<p align="left">
+<a href="https://github.com/ahmadfurqan7">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadfurqan7&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <br/>
 <p align="center">
 	<a href="https://github.com/ahmadfurqan7"><img src="https://img.shields.io/github/last-commit/ahmadfurqan7/ahmadfurqan7?label=Profile%20Updated&amp;style=flat" alt="GitHub hits"></a>
