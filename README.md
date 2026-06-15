@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </a>
-<h1 align="center">
+<h1>
     <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=blue&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Ahmad+Furqan!" />
     </a>
