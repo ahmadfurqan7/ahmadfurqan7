@@ -103,13 +103,18 @@ No activity tracked
 **Bachelor of Science in Physics**<br/>
 Andalas University, Padang
 
-<p align="left">
-<a href="https://github.com/ahmadfurqan7">
-	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadfurqan7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadfurqan7&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ahmadfurqan7&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmadfurqan7&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ahmadfurqan7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
+<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmadfurqan7&style=flat-square&color=brightgreen" alt="viewers count" style="height: 40px;"/>
+</p>
+<!--
 <br/>
 <p align="center">
 	<a href="https://github.com/ahmadfurqan7"><img src="https://img.shields.io/github/last-commit/ahmadfurqan7/ahmadfurqan7?label=Profile%20Updated&amp;style=flat" alt="GitHub hits"></a>
@@ -118,3 +123,4 @@ Andalas University, Padang
 	 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome GitHub Profile README"></a>
         <p align="right"><img src="https://custom-icon-badges.herokuapp.com/badge/Thank-you-pink.svg?logo=heart-fill&logoColor=pink"></p>
 </p>
+-->
