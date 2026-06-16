@@ -28,7 +28,7 @@ Physics graduate from Andalas University (Earth & Atmospheric Physics) who has a
 ## 🔧 Projects
 - [Data Analyst Project](https://github.com/ahmadfurqan7/Data-Analyst)
 - [Data Science Project]()
-- [Tableau Project]()
+- [Tableau Project](https://github.com/ahmadfurqan7/Tableau-Project)
 - [Power BI Project](https://github.com/ahmadfurqan7/PowerBI-Project)
 - [SQL Data Project](https://github.com/ahmadfurqan7/SQL-Project)
 - [Machine Learning Project](https://github.com/ahmadfurqan7/Machine-Learning)
