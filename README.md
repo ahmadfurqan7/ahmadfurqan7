@@ -118,6 +118,7 @@ Andalas University, Padang
 </div>
 
 <br/>
+![snake animation](https://github.com/<seu ahmadfurqan7>/<seu uahmadfurqan7>/blob/output/github-contribution-grid-snake2.svg)
 <!--
 <br/>
 <p align="center">
