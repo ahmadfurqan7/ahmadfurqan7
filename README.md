@@ -112,7 +112,7 @@ Andalas University, Padang
 <p>
   <img src="https://komarev.com/ghpvc/?username=ahmadfurqan7&style=flat-square&color=brightgreen" alt="viewers count" style="height: 20px;"/>
 </p>
-
+<!--
 <div align="center">
 <img src="https://raw.githubusercontent.com/K-Ilyas/K-Ilyas/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
