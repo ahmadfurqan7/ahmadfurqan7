@@ -92,7 +92,7 @@ No activity tracked
 - [LinkedIn - Ahmad Furqan](https://www.linkedin.com/in/ahmad-furqan-836468197/) 👨💼
 - [Instagram - ahmadfurqan7](https://www.instagram.com/ahmadfurqan7/) 😏
 - [Email - ahmadfurqan536@gmail.com](mailto:ahmadfurqan536@gmail.com) ✉
-- [CV Resume - Ahmad Furqan](https://drive.google.com/file/d/1lpU4eftLM5pp-OF9o4Ew4AiCH5zJ7n5E/view?usp=sharing) 📃
+- [CV Resume - Ahmad Furqan](https://drive.google.com/file/d/1rtGHLCwTsMljkt2q3VdBmlVj8ZFJxOWp/view?usp=sharing) 📃
 
 ### 💼 Where i am currently working at/as
 
