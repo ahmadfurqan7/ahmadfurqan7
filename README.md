@@ -35,6 +35,9 @@ Physics graduate from Andalas University (Earth & Atmospheric Physics) who has a
 - [Python Project](https://github.com/ahmadfurqan7/Python-project)
 - [Excel Project](https://github.com/ahmadfurqan7/Excel-Project)
 
+## 🔧 Portfolio 
+[Ahmad Furqan Portfolio](https://ahmadfurqan7.github.io/AhmadFurqan.github.io/)
+
 ## 🔧 Technologies & Tools
 
 <!-- badges built from https://shields.io/ -->
