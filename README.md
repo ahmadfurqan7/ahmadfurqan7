@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </h1> 
 
 ## 🔧 About Me
-Physics graduate from Andalas University (Earth & Atmospheric Physics) who has a combination of analytical data expertise, administrative rigor, and visual creativity. Extensive experience in managing operational and logistics data, including purchase order administration, stock picking, and inventory/stock accuracy. Have technical proficiency in SQL, Python, and data visualization using Power BI and Tableau, backed by various certifications from global platforms such as HackerRank and Dicoding. Proven to be able to adapt in various industries, from the banking sector as a Financial Advisor to the creative industry as a Graphic Designer, with a high dedication to accuracy and the achievement of company targets.
+Graduate of Bachelor of Physics (Concentration in Earth & Atmospheric Physics) with practical experience in the logistics, retail, and finance sectors. Master SQL, Python, Excel and data visualization using Power BI and Tableau. Have a track record of processing operational data into business insights, improving inventory accuracy, and optimizing sales performance. Ready to implement a data-driven approach to support the company's strategic decision-making.
 
 ## 🔧 Projects
 - [Data Analyst Project](https://github.com/ahmadfurqan7/Data-Analyst)
